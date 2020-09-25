@@ -1,0 +1,24 @@
+--- Thanks for playing I Need Space! ---
+
+VIDEO DEMO AVAILABLE @ https://youtu.be/H4YL2qL7xlM
+
+--- Game controls ---
+Mouse		click and drag to launch the rocket from one side of the screen to the other - aim for the flag!
+Esc. button 	pulls up the pause menu, if you're ever stuck use the RESTART button to reset the level
+
+--- Download ---
+I Need Space is available to download for free on Itch.io @ https://euryalus.itch.io/i-need-space
+
+--- Music / SFX credits ---
+File name		Source									Edited? Y/N
+backgroundAmbience.WAV	https://freesound.org/people/Andrewkn/sounds/417884/			N
+backgroundNoise.WAV	https://freesound.org/people/Sonicfreak/sounds/174450/			N
+buttonPress.WAV		https://freesound.org/people/Leszek_Szary/sounds/146721/		N
+confettiPop.WAV		https://freesound.org/people/suonho/sounds/27568/			Y (shortened)
+loseSound.WAV		https://freesound.org/people/JomelleJager/sounds/251440/		N
+onAwake.WAV		https://freesound.org/people/LittleRobotSoundFactory/sounds/270524/	N
+planetCollide.WAV	https://freesound.org/people/zimbot/sounds/122126/			Y (pitch change)
+portalSound.WAV		https://freesound.org/people/shiversmedia/sounds/254131/		N
+rocketLaunch.WAV	https://freesound.org/people/Glaneur%20de%20sons/sounds/34172/		Y (shortened)
+teleportPortal.WAV	https://freesound.org/people/DWOBoyle/sounds/474180/			N
+ufoSound.WAV		https://freesound.org/people/Beetlemuse/sounds/505414/			N
